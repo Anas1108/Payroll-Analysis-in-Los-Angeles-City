@@ -1,5 +1,8 @@
 # Payroll Analysis in Los Angeles City
 
+## Download te dataset by following link:
+- https://drive.google.com/file/d/1xqdnw18I01L4cVZRKEVEmDmQrLPTvOxv/view?usp=sharing
+
 This project is aimed at answering the following questions about Los Angeles City employees' payroll information:
 
 1. Do Police Officer-II employees have a better chance of receiving Temporary Bonus Pay?
